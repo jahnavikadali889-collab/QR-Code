@@ -1,0 +1,20 @@
+/* h1{
+    color: rgb(25, 107, 79);
+}
+p{
+    color: rgb(35, 5, 186);
+} */
+/* body{
+    background-color: bisque;
+} */
+
+.my-container{
+    text-align: center;
+}
+.heading{
+    color: blue;
+
+}
+.para{
+    color: red;
+}
